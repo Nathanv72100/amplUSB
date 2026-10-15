@@ -11,6 +11,8 @@ Simple DIY stereo speaker project built on a perfboard using a PAM8403 amplifier
 4🔈speakers 3W
 (x2)
 
+#Tutorial
+
 First step:
 Take the PAM8403 available in the provided library. (the main part)
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/46b1733d-34fc-4eee-a283-5b757bfb1f33" />
