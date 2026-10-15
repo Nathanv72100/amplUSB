@@ -11,4 +11,16 @@ Simple DIY stereo speaker project built on a perfboard using a PAM8403 amplifier
 4🔈speakers 3W
 (x2)
 
+First step:
+Take the PAM8403 available in the provided library. (the main part)
+<img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/46b1733d-34fc-4eee-a283-5b757bfb1f33" />
+
+second step:
+Connect the GND and the shield to the GND on the PAM8403 power supply, and VBUS to VIN.
+<img width="1176" height="592" alt="image" src="https://github.com/user-attachments/assets/dd78bf6b-4b43-4e3c-944e-cd60a8581ae8" />
+
+step three:
+Now that this is done, let's wire the AudioPlug connections: T -> L, R -> Ground, and S -> R
+<img width="843" height="560" alt="image" src="https://github.com/user-attachments/assets/5facfe8a-b039-42f4-bf72-340d7a335aa4" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f42ce2fe-8221-4a85-af28-a19a2d04e822" />
