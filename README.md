@@ -28,4 +28,11 @@ Connect the GND and the shield to the GND on the PAM8403 power supply, and VBUS 
 Now that this is done, let's wire the AudioPlug connections: T -> L, R -> Ground, and S -> R
 <img width="843" height="560" alt="image" src="https://github.com/user-attachments/assets/5facfe8a-b039-42f4-bf72-340d7a335aa4" />
 
+# Final step:
+Connect L- and L+ to Speaker 1
+
+Connect R+ and R- to Speaker 2
+<img width="834" height="550" alt="image" src="https://github.com/user-attachments/assets/383f6bb3-35ad-442a-aa2c-2e48bcab2867" />
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f42ce2fe-8221-4a85-af28-a19a2d04e822" />
