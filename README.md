@@ -34,5 +34,5 @@ Connect L- and L+ to Speaker 1
 Connect R+ and R- to Speaker 2
 <img width="834" height="550" alt="image" src="https://github.com/user-attachments/assets/383f6bb3-35ad-442a-aa2c-2e48bcab2867" />
 
-
+# Result
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f42ce2fe-8221-4a85-af28-a19a2d04e822" />
