@@ -12,10 +12,10 @@ Simple DIY stereo speaker project built on a perfboard using a PAM8403 amplifier
 (x2)
 
 
-# Tutorial:
+## Tutorial:
 
 
-## First step:
+# First step:
 Take the PAM8403 available in the provided library. (the main part)
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/46b1733d-34fc-4eee-a283-5b757bfb1f33" />
 
@@ -56,4 +56,5 @@ Shield and GND (4) -> GND (5)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f42ce2fe-8221-4a85-af28-a19a2d04e822" />
 
-The Result is available in "ID".(ID/enceinte.kicad_pro)
+
+### The Result is available in "ID".(ID/enceinte.kicad_pro)
