@@ -12,7 +12,7 @@ Simple DIY stereo speaker project built on a perfboard using a PAM8403 amplifier
 (x2)
 
 
-## Tutorial:
+** Tutorial:
 
 
 # First step:
